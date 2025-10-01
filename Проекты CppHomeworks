@@ -1,4 +1,2 @@
 git init
 git remote add origin https://github.com/Leotehnick/Salnikov-cpp-homeworks/tree/main
-git add .
-git commit -m "First commit"
